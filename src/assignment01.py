@@ -1,7 +1,7 @@
 ##=============assignment01_cathy_huang.py=======================
 ## Author: Cathy Huang
-## Date: 9/21/2016
-## Assignment: Python Program 1
+## Date: 01/15/2017
+## Assignment: 
 ## ==============================================================
 
 >>> def addItemToList (thelist):
