@@ -1,11 +1,10 @@
 ##=============assignment01_cathy_huang.py=======================
 ## Author: Cathy Huang
-## Student ID: 91849
 ## Date: 9/21/2016
 ## Assignment: Python Program 1
 ## ==============================================================
 
- >>> def addItemToList (thelist):
+>>> def addItemToList (thelist):
 	thelist.append(input())
 	return thelist
 
