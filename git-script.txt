@@ -1,0 +1,6 @@
+//Clone an existing repository on Github. configure local repo to point to the remote repository
+$ git clone https://github.com/CathyHuangtw/practice_project.git
+$ git remote add origin https://github.com/CathyHuangtw/practice_project.git
+
+//verify the new remote set above
+$ git remote -v
