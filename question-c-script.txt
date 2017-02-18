@@ -10,3 +10,10 @@ $ git co some-feature
 $ git add .
 $ git commit -m "Answering Q.C"
 $ git co master
+
+//Now switch back to the branch name and stash the changes and apply the changes to the master branch by switching to the master branch
+$ git co some-feature
+$ git stash
+$ git stash apply
+$ git add .
+$ git commit -m "Answering Q.C"
