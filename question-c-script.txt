@@ -1,0 +1,2 @@
+//Create a local branch using git checkout -b branchname command
+$ git co -b some-feature
