@@ -1,2 +1,5 @@
 //Create a local branch using git checkout -b branchname command
 $ git co -b some-feature
+
+//Observe the difference by doing some file operations and switch back to the master branch
+$ git co master
