@@ -43,6 +43,9 @@ $ git push origin --delete new-feature
 $ git branch -d new-feature
 
 
+//Create another feature branch, merge the changes using fast forward merge and then delete the feature branch
+
+
 
 
 
