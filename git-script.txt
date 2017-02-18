@@ -33,9 +33,10 @@ $ git co new-feature
 $ git add .
 $ git commit -m "modify README"
 $ git push -u origin new-feature
-$ git rebase master
+
 
 //Merge the changes using the rebase command and finally perform a safe deletion of the feature branch
+$ git rebase master
 $ git co master
 $ git merge --no-ff new-feature
 
