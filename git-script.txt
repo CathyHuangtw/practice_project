@@ -2,12 +2,29 @@
 $ git clone https://github.com/CathyHuangtw/practice_project.git
 $ git remote add origin https://github.com/CathyHuangtw/practice_project.git
 
-//verify the new remote set above
+//Verify the new remote set above
 $ git remote -v
 
-//add and commit new changes. Current branch: new-feature
+//Add and commit new changes. Current branch: new-feature
 $ git add .
 $ git commit -m "add git-script for HW1.question B"
 
-//checkout to master and perform merge
-$
+//Vheckout to master and perform merge
+$ git co master
+$ git merge new-feature
+
+//Set git config to push only the current branch and perform push to remote
+$ git config --global push.default current
+$ git push
+
+
+//Try fetching the changes and perform the merge 
+$ git fetch origin
+$ git merge origin/master
+
+//Work on codes and then stash your changes and then pull the changes and finally apply the changes
+$ git stash
+$ git stash show
+$ git stash apply
+
+
