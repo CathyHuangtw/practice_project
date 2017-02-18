@@ -3,3 +3,10 @@ $ git co -b some-feature
 
 //Observe the difference by doing some file operations and switch back to the master branch
 $ git co master
+
+//Now switch back to the branch and commit the changes and switch to master
+branch. Now see if you can still see the changes in the master branch
+$ git co some-feature
+$ git add .
+$ git commit -m "Answering Q.C"
+$ git co master
