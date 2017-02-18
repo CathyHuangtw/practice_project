@@ -28,3 +28,12 @@ $ git stash show
 $ git stash apply
 
 
+//Go to new-feature branch and make some changes
+$ git co new-feature
+$ git add .
+$ git commit -m "modify README"
+$ git push -u origin new-feature
+$ git rebase master
+
+
+

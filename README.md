@@ -1,8 +1,7 @@
+# Assignment 1
 
-I am writing the same line as well.
+---
+## Answers
 
-hahaha
-
-
-go go go. will add one more typo
-new feature branch
+For B. GIT REMOTE REPOSITORIES:
+see git-script.txt
