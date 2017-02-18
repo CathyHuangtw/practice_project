@@ -39,7 +39,8 @@ $ git push -u origin new-feature
 $ git rebase master
 $ git co master
 $ git merge --no-ff new-feature
-
+$ git push origin --delete new-feature
+$ git branch -d new-feature
 
 
 
