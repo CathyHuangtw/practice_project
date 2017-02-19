@@ -1,0 +1,59 @@
+*   Merged more-feature
+|\  
+| * Add debug log
+* | Add different debug log
+|/  
+* Add comment in my code
+* Rewrote the string
+* start working on Question D
+* finished answering Q.C.6
+* finished answering Q.C.5
+*   Finish --ours merge
+|\  
+| * write different murmur in question-c-script
+* | write murmur in question-c-script
+* | Answering Q.C.4
+|/  
+* Continue answering
+* Answering Q.C
+* Preparation for Q.C
+*   Merge branch 'add-changes'
+|\  
+| * add content in git-script
+|/  
+* more content for the script
+* more content for the script
+* more content for the script
+* more content for the script
+*   Merge branch 'new-feature'
+|\  
+| * add more script
+| * modify README
+|/  
+* write answers for Q.B- 4&5
+* more content in script
+* add git-script for HW1.question B
+* add more content
+* add content
+* add morerebase.txt
+* create new file
+* add config file
+* Editing readme file
+* Modify src code
+* Revised.
+* changed it
+*   Resolve the conflict
+|\  
+| * Write the readme file
+* | Writing the readme file
+|/  
+* Remove the test file
+* Add test file
+* Add back readme file
+* Remove readme file
+* Delete a txt file
+* edit source code
+* Add source code
+* Add Readme file
+* Write one line text
+* First Commit
