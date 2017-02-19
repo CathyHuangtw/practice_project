@@ -17,3 +17,9 @@ $ git stash
 $ git stash apply
 $ git add .
 $ git commit -m "Answering Q.C"
+
+//Try merging the changes from the branch to the master branch using all the three merge strategies and then view the git log
+test ajdfjakdf
+qwejrhqewqjkre
+cathyyyyyy
+
