@@ -3,7 +3,7 @@
  * @return {boolean}
  */
 
-let str = "FALLLDEW";
+let str = "Google";
 
 var detectCapitalUse = (word) => {
     let character;
