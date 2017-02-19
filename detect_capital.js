@@ -16,6 +16,7 @@ var detectCapitalUse = (word) => {
     if (character == character.toUpperCase()) {
         if (res == res.toUpperCase() || res == res.toLowerCase()){
             ans = true;
+            console.log("For debug: " + res.toUpperCase());
         }else ans = false;
     }
     if (character == character.toLowerCase()){
