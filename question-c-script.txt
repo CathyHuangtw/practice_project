@@ -32,3 +32,6 @@ $ git add question-c-script.txt
 $ git commit -m "Finish --ours merge"
 $ git log
 
+//Push the local branch to the remote repository and see if the branch is present on the remote repository – Github
+$ git push
+
