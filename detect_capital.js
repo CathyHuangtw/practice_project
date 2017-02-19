@@ -12,6 +12,7 @@ var detectCapitalUse = (word) => {
     let ans;
 
     character = word.charAt(0);
+    //Check the first character of the str
     if (character == character.toUpperCase()) {
         if (res == res.toUpperCase() || res == res.toLowerCase()){
             ans = true;
